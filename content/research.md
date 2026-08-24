@@ -40,10 +40,14 @@ sections:
 
         **Selected ongoing work**
 
-        - **Clinical AI curriculum manuscript — submitted to Frontiers in Medicine:**
-          *Beyond AI Literacy: Developing a Competency-Based Curriculum for
-          Evidence-Based Evaluation of Clinical Artificial Intelligence* presents
-          an evaluation-centered curriculum for clinicians and health researchers.
+        - **JAMIA Perspective — submitted:** A perspective manuscript advances an
+          evaluation-centered approach to trustworthy Clinical AI, emphasizing the
+          evidence needed before models are interpreted or considered for local use.
+        - **Clinical AI curriculum manuscript — planned for submission today to
+          Frontiers in Medicine:** *Beyond AI Literacy: Developing a Competency-Based
+          Curriculum for Evidence-Based Evaluation of Clinical Artificial
+          Intelligence* presents an evaluation-centered curriculum for clinicians
+          and health researchers.
         - **Federated EHR and TriNetX methods study — in progress:** A Monte Carlo
           simulation study examines how interface-mediated analytic constraints can
           produce apparently balanced but biased causal estimates, highlighting the
