@@ -26,20 +26,34 @@ sections:
 
   - block: markdown
     content:
-      title: 'Clinical AI and Machine Learning'
+      title: 'Clinical AI Evaluation'
       subtitle: ''
       text: |-
-        I study practical applications of machine learning to clinical and
-        population health data, including prediction of metabolic phenotypes and
-        screening for cognitive impairment. This work emphasizes careful
-        validation, interpretable performance assessment, appropriate handling of
-        complex survey and healthcare data, and recognition of bias and limits to
-        generalizability.
+        My research focuses on determining whether Clinical AI systems produce
+        trustworthy, clinically meaningful, and equitable evidence—not simply
+        whether an algorithm achieves high accuracy. I evaluate the full pathway
+        from data construction and model development to external validation,
+        clinical interpretation, and potential implementation in real healthcare
+        settings.
 
-        A related priority is responsible Clinical AI education: helping health
-        professionals understand what AI models can and cannot establish, how
-        dataset construction affects model behavior, and how to evaluate clinical
-        usefulness beyond headline accuracy metrics.
+        Key areas include data quality and representativeness; discrimination and
+        calibration; internal and external validation; subgroup performance, bias,
+        and fairness; uncertainty and reproducibility; and comparison with existing
+        clinical practice. I am particularly interested in whether reported
+        performance generalizes across institutions and diverse populations,
+        including the multiracial communities of Hawaiʻi and the Pacific.
+
+        This work also examines clinical utility beyond conventional performance
+        metrics: whether a model addresses an important clinical question, improves
+        decisions or outcomes, fits the intended workflow, and can be monitored
+        safely after implementation. Applications include prediction of metabolic
+        phenotypes, cognitive-impairment screening, and evaluation of AI-supported
+        clinical research.
+
+        A closely connected priority is developing an evaluation-oriented Clinical
+        AI workforce. Through research and education aligned with the R25 vision, I
+        help clinicians, investigators, and quantitative scientists assess what AI
+        models can and cannot establish and use AI-generated evidence responsibly.
     design:
       columns: '1'
 
