@@ -36,8 +36,23 @@ sections:
         prediction of metabolic phenotypes, cognitive-impairment screening, and
         evaluation of AI-supported clinical research.
 
-        Consistent with NIH priorities, a closely connected goal is strengthening
-        an interdisciplinary workforce that can rigorously assess, validate, and
+        **Selected ongoing work**
+
+        - **Clinical AI curriculum manuscript — submitted to Frontiers in Medicine:**
+          *Beyond AI Literacy: Developing a Competency-Based Curriculum for
+          Evidence-Based Evaluation of Clinical Artificial Intelligence* presents
+          an evaluation-centered curriculum for clinicians and health researchers.
+        - **Federated EHR and TriNetX methods study — in progress:** A Monte Carlo
+          simulation study examines how interface-mediated analytic constraints can
+          produce apparently balanced but biased causal estimates, highlighting the
+          need for transparent diagnostics and investigator-controlled methods.
+        - **Clinical AI education study — manuscript in development:** This work
+          examines how foundational biostatistics education can be modernized for
+          the AI era and how learners can develop practical competencies for the
+          critical evaluation and responsible use of Clinical AI evidence.
+
+        Consistent with NIH priorities, these projects strengthen an
+        interdisciplinary workforce that can rigorously assess, validate, and
         responsibly adopt AI. I integrate this evaluation framework into research,
         collaboration, and education for clinicians, investigators, and quantitative
         scientists.
