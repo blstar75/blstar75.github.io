@@ -26,39 +26,14 @@ sections:
       subtitle: ''
       text: |-
         **Basic Biostatistics for Clinical Research (QHS 600) — Fall 2026**  
-        I currently teach this three-credit graduate course for clinical and
-        health researchers. Organized around clinical questions and decisions,
-        the course develops statistical reasoning before computation: students
-        learn to define outcomes and predictors, describe patient populations,
-        quantify uncertainty, compare groups, evaluate associations, build and
-        interpret introductory regression models, and communicate evidence with
-        appropriate limitations.
-
-        The Fall 2026 course is delivered as a live, interactive Zoom class that
-        combines focused instruction, clinical cases, guided problem solving,
-        interpretation exercises, and critiques of published or simulated
-        studies. No prior programming experience is required; software
-        demonstrations support the central emphasis on reasoning and responsible
-        interpretation.
-
-        **Fall 2026 learning sequence**
-
-        - Clinical questions, variables, measurement, distributions, and data quality
-        - Samples, populations, sampling variation, confidence intervals, and hypothesis testing
-        - Effect estimates and statistical versus clinical importance
-        - Independent, paired, and multi-group comparisons
-        - Categorical outcomes, risk difference, risk ratio, and odds ratio
-        - Correlation, confounding, and association versus causation
-        - Simple and multiple linear regression, interaction, and model assumptions
-        - Logistic regression, predicted probabilities, and clinical prediction
-        - Statistical foundations for evaluating Clinical AI evidence
-        - Critical appraisal, clear communication, and responsible use of AI
-
-        Student learning is assessed through weekly formative quizzes (15%),
-        homework and clinical application exercises (30%), a midterm examination
-        (20%), a cumulative final examination (30%), and preparation and
-        participation (5%). QHS 600 provides the statistical foundation and
-        gateway for advanced work in Clinical AI evidence.
+        I am modernizing this foundational graduate course for the AI era while
+        preserving the statistical reasoning that clinical and health researchers
+        need to evaluate evidence responsibly. Clinical AI examples connect core
+        concepts—including uncertainty, data quality, bias, prediction, and
+        validation—to real research decisions. This course redesign supports the
+        R25 vision of building an interdisciplinary workforce that can understand,
+        critically evaluate, and responsibly use AI in biomedical and clinical
+        research.
 
         **Biomedical Statistics II (QHS 602)**  
         Advanced graduate biostatistics for the Clinical and Translational
