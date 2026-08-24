@@ -40,14 +40,16 @@ sections:
 
         **Selected ongoing work**
 
-        - **JAMIA Perspective — submitted:** A perspective manuscript advances an
-          evaluation-centered approach to trustworthy Clinical AI, emphasizing the
-          evidence needed before models are interpreted or considered for local use.
-        - **Clinical AI curriculum manuscript — planned for submission today to
-          Frontiers in Medicine:** *Beyond AI Literacy: Developing a Competency-Based
-          Curriculum for Evidence-Based Evaluation of Clinical Artificial
-          Intelligence* presents an evaluation-centered curriculum for clinicians
-          and health researchers.
+        - **Submitted Perspective:** Ahn HJ, Kim MH, Lim E, Siriwardhana C. (2026).
+          *Auditability Before Statistical Assessment: A Dependency-Based Framework
+          for Local Evaluation of Clinical Prediction Models.* Perspective manuscript
+          submitted to the *Journal of the American Medical Informatics Association
+          (JAMIA)*.
+        - **Curriculum manuscript prepared for submission today:** Ahn HJ. (2026).
+          *Beyond AI Literacy: Developing a Competency-Based Curriculum for
+          Evidence-Based Evaluation of Clinical Artificial Intelligence.* Manuscript
+          prepared for submission to *Frontiers in Medicine*, Curriculum, Instruction,
+          and Pedagogy.
         - **Federated EHR and TriNetX methods study — in progress:** A Monte Carlo
           simulation study examines how interface-mediated analytic constraints can
           produce apparently balanced but biased causal estimates, highlighting the
