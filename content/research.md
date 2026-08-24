@@ -50,14 +50,29 @@ sections:
           Evidence-Based Evaluation of Clinical Artificial Intelligence.* Manuscript
           prepared for submission to *Frontiers in Medicine*, Curriculum, Instruction,
           and Pedagogy.
-        - **Federated EHR and TriNetX methods study — in progress:** A Monte Carlo
-          simulation study examines how interface-mediated analytic constraints can
-          produce apparently balanced but biased causal estimates, highlighting the
-          need for transparent diagnostics and investigator-controlled methods.
-        - **Clinical AI education study — manuscript in development:** This work
-          examines how foundational biostatistics education can be modernized for
-          the AI era and how learners can develop practical competencies for the
-          critical evaluation and responsible use of Clinical AI evidence.
+        - **TriNetX methodological review — manuscript in development:** Ahn HJ,
+          Ishikawa KM, Phisayavong J, Lim EJ, Shikuma C. (2026). *Reporting of Causal
+          Inference Design Features and Propensity Score Matching Transparency in
+          Published TriNetX Studies: A Cross-Sectional Methodological Review.* This
+          study evaluates time-zero alignment, active-comparator and new-user
+          designs, target-trial emulation, matching specifications, and balance
+          diagnostics in the rapidly expanding TriNetX literature. Submission draft
+          prepared for *BMC Medical Research Methodology*.
+        - **TriNetX Monte Carlo simulation study — manuscript in development:** Ahn
+          HJ et al. (2026). *Beyond Point-and-Click: Interface-Mediated Analytic
+          Constraints in Federated Electronic Health Record Research—A Monte Carlo
+          Simulation Study.* The study tests whether conventional measured-covariate
+          balance can appear satisfactory while causal estimates remain biased and
+          confidence-interval coverage is poor, separating the effects of analytic
+          implementation from covariate availability. Manuscript being prepared for
+          the *Journal of Clinical Epidemiology*.
+        - **QHS 600 education study — manuscript in development:** This educational
+          research evaluates the modernization of foundational biostatistics for the
+          Clinical AI era. It examines how a clinical-question-centered curriculum
+          supports statistical reasoning, evidence appraisal, and readiness to
+          evaluate AI-supported clinical research. The Fall 2026 course provides the
+          implementation setting; any learner research participation is voluntary
+          and proceeds only under the required institutional approvals.
 
         Consistent with NIH priorities, these projects strengthen an
         interdisciplinary workforce that can rigorously assess, validate, and
