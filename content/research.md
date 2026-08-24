@@ -12,6 +12,8 @@ sections:
       title: 'Clinical AI Evaluation'
       subtitle: ''
       text: |-
+        ![Clinical AI evaluation and validation pathway](/media/research/clinical-ai-evaluation.png)
+
         **My primary research focus is Clinical AI evaluation.** This work aligns
         with the [NIH Strategic Plan for Data Science,
         2025–2030](https://datascience.nih.gov/strategicplan) and its vision to
@@ -64,6 +66,8 @@ sections:
       title: 'Quantitative Methods for Clinical and Population Health'
       subtitle: ''
       text: |-
+        ![Quantitative methods transforming population data into evidence](/media/research/quantitative-methods.png)
+
         My broader research develops and applies quantitative methods to improve
         clinical, biomedical, and population health research. The work is highly
         collaborative: I partner with investigators to formulate answerable
@@ -81,6 +85,8 @@ sections:
       title: 'Healthcare Data Analytics and Health Disparities'
       subtitle: ''
       text: |-
+        ![Health data and diverse communities across Hawaii](/media/research/health-disparities.png)
+
         My work uses hospital, survey, census, and clinical datasets to study
         healthcare utilization, preventable hospitalization, maternal health,
         chronic disease, and racial and ethnic disparities. Methodological
@@ -99,6 +105,8 @@ sections:
       title: 'Collaborative Biostatistics'
       subtitle: ''
       text: |-
+        ![Collaborative biostatistics connecting clinical research disciplines](/media/research/collaborative-biostatistics.png)
+
         As Director of the Biostatistics Core Facility, I lead and contribute to
         collaborations across study design, power and sample-size planning,
         statistical analysis, data quality, grant development, manuscript
@@ -116,6 +124,8 @@ sections:
       title: 'Research Infrastructure and Capacity Building'
       subtitle: ''
       text: |-
+        ![Research infrastructure connecting data teams training and communities](/media/research/research-infrastructure.png)
+
         I support research infrastructure through the Biostatistics Core Facility,
         the Ola HAWAII Biostatistics Support Facility, and the PIKO Biostatistics,
         Epidemiology, and Research Design Core. These roles combine direct
