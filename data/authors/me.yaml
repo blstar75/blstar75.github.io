@@ -2,115 +2,113 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  display: Hyeong Jun Ahn
+  given: Hyeong Jun
+  family: Ahn
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
 postnominals:
   - PhD
-  - MIEEE
-status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+role: Associate Professor and Director, Biostatistics Core Facility
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Hyeong Jun Ahn is an Associate Professor in the Department of Quantitative
+  Health Sciences at the University of Hawaiʻi John A. Burns School of
+  Medicine and Director of the Biostatistics Core Facility. His work integrates
+  applied biostatistics, healthcare data analytics, research design, and
+  clinical artificial intelligence to support biomedical, clinical, and
+  translational research in Hawaiʻi.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Hawaiʻi John A. Burns School of Medicine
+    url: https://jabsom.hawaii.edu/
+  - name: Department of Quantitative Health Sciences
+    url: https://qhs.jabsom.hawaii.edu/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: mailto:hjahn@hawaii.edu
+    label: Email
+  - icon: hero/building-library
+    url: https://qhs.jabsom.hawaii.edu/faculty-and-staff/hyeong-jun-ahn.html
+    label: Institutional profile
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?hl=en&user=AXnB4H0AAAAJ&view_op=list_works&sortby=pubdate
+    label: Google Scholar
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-1510-1125
+    label: ORCID
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Applied Biostatistics
+  - Clinical AI and Machine Learning
+  - Healthcare Data Analytics
+  - Longitudinal and Categorical Data Analysis
+  - Research Design
+  - Health Disparities Research
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD in Applied Mathematics and Statistics
+    institution: Stony Brook University
+    end: 2011-08-01
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Dissertation: “Hardy-Weinberg Deviation and EM-based Haplotype Frequency Estimation.”
+  - degree: MS in Applied Mathematics and Statistics
+    institution: Stony Brook University
+    end: 2008-05-01
+  - degree: BS in Mathematics, Minor in Electrical Engineering
+    institution: Korea Advanced Institute of Science and Technology
+    end: 2003-08-01
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Associate Professor
+    org: Department of Quantitative Health Sciences, University of Hawaiʻi
+    start: 2026-04-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Teaching and mentoring in biostatistics and quantitative health sciences,
+      developing curricula, and supporting clinical and translational research.
+  - role: Director, Biostatistics Core Facility
+    org: University of Hawaiʻi John A. Burns School of Medicine
+    start: 2023-07-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Directing statistical consultation, research collaboration, data quality,
+      grant and manuscript support, and methodological development.
+  - role: Director, Ola HAWAII Biostatistics Support Facility
+    org: University of Hawaiʻi John A. Burns School of Medicine
+    start: 2023-01-01
+    summary: |
+      Providing biostatistical leadership for research design, analysis, data
+      management, grant development, and quantitative methodological innovation.
+  - role: PIKO BERD Core Member
+    org: University of Hawaiʻi John A. Burns School of Medicine
+    start: 2022-08-01
+    summary: |
+      Supporting study design, statistical analysis, consultation, and educational
+      workshops for clinical and translational researchers.
+  - role: Biostatistics Specialist
+    org: Department of Quantitative Health Sciences, University of Hawaiʻi
+    start: 2016-03-01
+    end: 2026-03-31
+    summary: |
+      Led and contributed to statistical analysis, research collaboration, and
+      manuscript development across a broad portfolio of biomedical studies.
 
 skills:
-  - name: Technical Skills
+  - name: Quantitative Methods
     items:
-      - label: Python
+      - label: Applied Biostatistics
         level: 5
-      - label: Machine Learning
+      - label: Study Design and Statistical Consulting
         level: 5
-      - label: Cloud Computing
+      - label: Healthcare Data Analytics
+        level: 5
+      - label: Machine Learning for Clinical Research
         level: 4
-  - name: Research & Communication
+  - name: Research and Education
     items:
-      - label: Academic Writing
+      - label: Collaborative Biomedical Research
         level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
-
-languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
-
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+      - label: Grant and Manuscript Development
+        level: 5
+      - label: Graduate and Clinical Education
+        level: 5

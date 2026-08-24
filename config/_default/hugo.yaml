@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name (set in params.yaml under hugoblox.branding.name)
-title: ''
+title: 'Hyeong Jun Ahn'
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://blstar75.github.io/'
 
 ############################
 ## LANGUAGE
@@ -40,7 +40,11 @@ pagination:
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+ignoreFiles:
+  - ".ipynb_checkpoints$"
+  - "\\.Rmd$"
+  - "\\.Rmarkdown$"
+  - "_cache$"
 disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
@@ -61,5 +65,13 @@ markup:
     lineNos: false
 security:
   _merge: deep
+  exec:
+    allow:
+      - ^(dart-)?sass$
+      - ^go$
+      - ^git$
+      - ^node$
+      - ^postcss$
+      - ^tailwindcss$
 sitemap:
   _merge: deep

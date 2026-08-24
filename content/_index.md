@@ -11,10 +11,10 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
-      # Show a call-to-action button under your biography? (optional)
+      # Link to the official faculty profile.
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: Institutional Profile
+        url: https://qhs.jabsom.hawaii.edu/faculty-and-staff/hyeong-jun-ahn.html
       headings:
         about: ''
         education: ''
@@ -34,21 +34,28 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
+    id: research
     content:
-      title: '📚 My Research'
+      title: 'Research and Educational Mission'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I collaborate with biomedical, clinical, and translational investigators
+        to turn complex health data into rigorous and actionable evidence. My work
+        spans applied biostatistics, research design, longitudinal and categorical
+        data analysis, healthcare analytics, health disparities, and machine
+        learning for clinical research.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        I also develop and teach quantitative methods for graduate students,
+        clinical trainees, faculty, and community researchers. A central goal of
+        this work is to expand practical, responsible Clinical AI education and
+        strengthen the quantitative research capacity of Hawaiʻi and the Pacific.
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: publications
     content:
-      title: Featured Publications
+      title: Selected Publications
+      text: Selected first- and corresponding-author work in biostatistics, clinical AI, healthcare analytics, and health disparities.
       filters:
         folders:
           - publications
@@ -56,54 +63,18 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
+  - block: markdown
     content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-  - block: collection
-    id: news
-    content:
-      title: Recent News
+      title: 'Collaborative Scholarship'
       subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 10
-      # Filter on criteria
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      text: |-
+        As of July 2026, I have contributed to **97 collaborative, co-authored
+        publications** across biomedical, clinical, and population health
+        research. Together with **6 first- or corresponding-author papers**, my
+        publication record includes **103 peer-reviewed articles published,
+        accepted, or in press**.
     design:
-      # Choose a layout view
-      view: card
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      columns: '1'
   - block: cta-card
     demo: true # Only display this section in the HugoBlox Kit demo site
     content:

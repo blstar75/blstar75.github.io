@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Academic Experience'
 date: 2023-10-24
 type: landing
 
@@ -20,14 +20,6 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
-      username: me
-  - block: resume-awards
-    content:
-      title: Awards
-      username: me
-  - block: resume-languages
-    content:
-      title: Languages
+      title: Areas of Expertise
       username: me
 ---
