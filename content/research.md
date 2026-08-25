@@ -87,6 +87,7 @@ sections:
         scientists.
     design:
       columns: '1'
+      css_class: 'research-wide'
 
   - block: markdown
     content:
@@ -106,6 +107,7 @@ sections:
         capacity for clinical and translational research.
     design:
       columns: '1'
+      css_class: 'research-wide'
 
   - block: markdown
     content:
@@ -126,6 +128,7 @@ sections:
         explicit.
     design:
       columns: '1'
+      css_class: 'research-wide'
 
   - block: markdown
     content:
@@ -145,6 +148,7 @@ sections:
         published, accepted, or in press**.
     design:
       columns: '1'
+      css_class: 'research-wide'
 
   - block: markdown
     content:
@@ -164,6 +168,7 @@ sections:
         cardiovascular health research in Native Hawaiian communities.
     design:
       columns: '1'
+      css_class: 'research-wide'
 
   - block: cta-card
     content:

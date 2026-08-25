@@ -1,0 +1,12 @@
+/* Keep Research comfortable to read on small screens while using more of the
+   available space on desktop. */
+@media (min-width: 1024px) {
+  section.research-wide > div.flex {
+    max-width: 64rem;
+  }
+
+  section.research-wide .prose {
+    width: 100%;
+    max-width: none;
+  }
+}
