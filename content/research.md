@@ -40,39 +40,34 @@ sections:
 
         **Selected ongoing work**
 
-        - **Submitted Perspective:** Ahn HJ, Kim MH, Lim E, Siriwardhana C. (2026).
-          *Auditability Before Statistical Assessment: A Dependency-Based Framework
-          for Local Evaluation of Clinical Prediction Models.* Perspective manuscript
-          submitted to the *Journal of the American Medical Informatics Association
-          (JAMIA)*.
-        - **Curriculum manuscript prepared for submission today:** Ahn HJ. (2026).
-          *Beyond AI Literacy: Developing a Competency-Based Curriculum for
-          Evidence-Based Evaluation of Clinical Artificial Intelligence.* Manuscript
-          prepared for submission to *Frontiers in Medicine*, Curriculum, Instruction,
-          and Pedagogy.
-        - **TriNetX methodological review — manuscript in development:** Ahn HJ,
-          Ishikawa KM, Phisayavong J, Lim EJ, Shikuma C. (2026). *Reporting of Causal
-          Inference Design Features and Propensity Score Matching Transparency in
-          Published TriNetX Studies: A Cross-Sectional Methodological Review.* This
-          study evaluates time-zero alignment, active-comparator and new-user
-          designs, target-trial emulation, matching specifications, and balance
-          diagnostics in the rapidly expanding TriNetX literature. Submission draft
-          prepared for *BMC Medical Research Methodology*.
-        - **TriNetX Monte Carlo simulation study — manuscript in development:** Ahn
-          HJ et al. (2026). *Beyond Point-and-Click: Interface-Mediated Analytic
-          Constraints in Federated Electronic Health Record Research—A Monte Carlo
-          Simulation Study.* The study tests whether conventional measured-covariate
-          balance can appear satisfactory while causal estimates remain biased and
-          confidence-interval coverage is poor, separating the effects of analytic
-          implementation from covariate availability. Manuscript being prepared for
-          the *Journal of Clinical Epidemiology*.
-        - **QHS 600 education study — manuscript in development:** This educational
+        **Clinical AI Evaluation Frameworks**
+
+        - Ahn HJ, Kim MH, Lim E, Siriwardhana C. (2026). *Auditability Before
+          Statistical Assessment: A Dependency-Based Framework for Local Evaluation
+          of Clinical Prediction Models.* Perspective manuscript submitted to the
+          *Journal of the American Medical Informatics Association (JAMIA)*.
+
+        **Clinical AI Education**
+
+        - Ahn HJ. (2026). *Beyond AI Literacy: Developing a Competency-Based
+          Curriculum for Evidence-Based Evaluation of Clinical Artificial
+          Intelligence.* Manuscript prepared for submission to *Frontiers in
+          Medicine*, Curriculum, Instruction, and Pedagogy.
+        - **QHS 600 education study — manuscript in development.** This educational
           research evaluates the modernization of foundational biostatistics for the
-          Clinical AI era. It examines how a clinical-question-centered curriculum
-          supports statistical reasoning, evidence appraisal, and readiness to
-          evaluate AI-supported clinical research. The Fall 2026 course provides the
-          implementation setting; any learner research participation is voluntary
-          and proceeds only under the required institutional approvals.
+          Clinical AI era, including statistical reasoning, evidence appraisal, and
+          readiness to evaluate AI-supported clinical research.
+
+        **Federated EHR and TriNetX Methods**
+
+        - Ahn HJ, Ishikawa KM, Phisayavong J, Lim EJ, Shikuma C. (2026). *Reporting
+          of Causal Inference Design Features and Propensity Score Matching
+          Transparency in Published TriNetX Studies: A Cross-Sectional Methodological
+          Review.* Submission draft prepared for *BMC Medical Research Methodology*.
+        - Ahn HJ et al. (2026). *Beyond Point-and-Click: Interface-Mediated Analytic
+          Constraints in Federated Electronic Health Record Research—A Monte Carlo
+          Simulation Study.* Manuscript being prepared for the *Journal of Clinical
+          Epidemiology*.
 
         Consistent with NIH priorities, these projects strengthen an
         interdisciplinary workforce that can rigorously assess, validate, and
