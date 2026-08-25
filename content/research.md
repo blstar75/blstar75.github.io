@@ -51,8 +51,8 @@ sections:
 
         - Ahn HJ. (2026). *Beyond AI Literacy: Developing a Competency-Based
           Curriculum for Evidence-Based Evaluation of Clinical Artificial
-          Intelligence.* Manuscript prepared for submission to *Frontiers in
-          Medicine*, Curriculum, Instruction, and Pedagogy.
+          Intelligence.* Manuscript submitted to *Frontiers in Medicine*,
+          Curriculum, Instruction, and Pedagogy.
         - **QHS 600 education study — manuscript in development.** This educational
           research evaluates the modernization of foundational biostatistics for the
           Clinical AI era, including statistical reasoning, evidence appraisal, and
