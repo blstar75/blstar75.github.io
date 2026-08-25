@@ -57,6 +57,9 @@ sections:
           research evaluates the modernization of foundational biostatistics for the
           Clinical AI era, including statistical reasoning, evidence appraisal, and
           readiness to evaluate AI-supported clinical research.
+        - **QHS 670 education study — manuscript in development.** This study will
+          examine competency-based education in clinical AI evaluation through an
+          advanced special-topics course planned for Spring 2027.
 
         **Federated EHR and TriNetX Methods**
 
