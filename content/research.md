@@ -105,6 +105,22 @@ sections:
         Across this portfolio, I am especially interested in methods and tools that
         are useful for Hawaiʻi’s diverse communities and that strengthen local
         capacity for clinical and translational research.
+
+        **Selected methodological publications**
+
+        - Ahn HJ. (2026). [*A Stratified Proportional Allocation Approach for
+          Multiracial Population
+          Classification.*](/publications/conference-paper/) *Population Review*.
+          Accepted; in press.
+        - Matsunaga M, Ishikawa KM, Siriwardhana C, Ahn HJ, Chen JJ. (2023).
+          [*Stepwise Proportional Weighting Algorithm for Single-Race Population
+          Estimation Using Hawaiʻi Census
+          Data.*](https://pubmed.ncbi.nlm.nih.gov/37901658/) *Hawaiʻi Journal of
+          Health & Social Welfare*, 82(10 Suppl 1), 97–103.
+        - Ahn HJ, Chen JJ. (2018). [*Proportional Weighting Algorithm for
+          Single-Race Population Estimation Using Multiracial Census
+          Data.*](/publications/proportional-weighting-census/) *Population Review*,
+          57(1).
     design:
       columns: '1'
       css_class: 'research-wide'
@@ -126,6 +142,25 @@ sections:
         This research seeks to produce estimates that reflect Hawaiʻi’s complex
         multiracial population while making assumptions and sources of uncertainty
         explicit.
+
+        **Selected publications**
+
+        - Ahn HJ. (2023). [*Potential Errors in Health Disparities Research
+          Resulting from Lack of Unique Patient Identifiers: Analysis of
+          Diabetes-related Preventable
+          Hospitalizations.*](/publications/patient-identifiers-disparities/)
+          *Hawaiʻi Journal of Health & Social Welfare*, 82(10 Suppl 1), 111–116.
+        - Brenner N, Ishikawa KM, Graham A, Binari A, Mercer E, Lee MJ, Ahn HJ.
+          (2026). [*Maternal Health Trends and Disparities in Hawaiʻi: Visualizing
+          Pregnancy Risk Assessment Monitoring System Data Through an Interactive
+          Shiny Web Application.*](/publications/journal-article/) *Hawaiʻi Journal
+          of Health & Social Welfare*. Conditionally accepted, pending final CDC
+          PRAMS data-use approval.
+        - Chern I, Choi SY, Ahn HJ, Mau M, Yamasato K. (2025). [*Racial/Ethnic
+          Differences in Gestational Diabetes and Its Association with Maternal and
+          Neonatal Outcomes among Women in
+          Hawaiʻi.*](https://pubmed.ncbi.nlm.nih.gov/40889055/) *Maternal and Child
+          Health Journal*, 29(12), 1679–1684.
     design:
       columns: '1'
       css_class: 'research-wide'
