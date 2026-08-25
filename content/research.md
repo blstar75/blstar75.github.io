@@ -46,9 +46,14 @@ sections:
           Statistical Assessment: A Dependency-Based Framework for Local Evaluation
           of Clinical Prediction Models.* Perspective manuscript submitted to the
           *Journal of the American Medical Informatics Association (JAMIA)*.
-        - **Second Clinical AI evaluation framework paper — manuscript in
-          development.** This work extends the ongoing framework-development
-          program for evidence-based evaluation of clinical AI.
+        - **Clinical AI Paper 2 / Audit A2 — external content review study in
+          preparation.** A 22-item dependency-based audit instrument and structured
+          review protocol have been developed. The study received a Not Human
+          Subjects Research determination from UH Human Studies (Protocol
+          2026-00661), and the external-review package is distribution-ready pending
+          final administrative clearance. Independent expert feedback will inform
+          refinement and release of Version 1.0, followed by manuscript submission
+          planned for late 2026 or early 2027.
 
         **Clinical AI Education**
 
