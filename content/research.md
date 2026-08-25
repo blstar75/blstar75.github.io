@@ -46,6 +46,9 @@ sections:
           Statistical Assessment: A Dependency-Based Framework for Local Evaluation
           of Clinical Prediction Models.* Perspective manuscript submitted to the
           *Journal of the American Medical Informatics Association (JAMIA)*.
+        - **Second Clinical AI evaluation framework paper — manuscript in
+          development.** This work extends the ongoing framework-development
+          program for evidence-based evaluation of clinical AI.
 
         **Clinical AI Education**
 
