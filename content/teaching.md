@@ -64,27 +64,6 @@ sections:
       columns: '1'
 
   - block: markdown
-    id: evolving-biostatistician
-    content:
-      title: 'The Evolving Role of the Biostatistician'
-      subtitle: 'From analysis production to evidence and AI validity'
-      text: |-
-        Biostatistics is not being replaced by AI. Its core foundations remain
-        essential, while the scope of responsibility is expanding across the full
-        lifecycle of Clinical AI evidence—from study design and validation to
-        real-world monitoring and responsible adoption.
-
-        {{< biostat-role-evolution >}}
-
-        Clinical AI evaluation education responds to this transition by combining
-        statistical reasoning, computation, clinical context, and responsible
-        evidence appraisal. The goal is to prepare quantitative health scientists
-        to become stewards of evidence quality and Clinical AI validity.
-    design:
-      columns: '1'
-      css_class: 'research-wide workforce-evolution'
-
-  - block: markdown
     content:
       title: 'Clinical AI and Data Science Education'
       subtitle: ''
@@ -100,6 +79,10 @@ sections:
         missing-data mechanisms, multiple imputation, sensitivity analysis, and
         reproducible implementation in R, together with applied machine-learning
         examples from healthcare research.
+
+        This educational strategy responds to a broader workforce transition
+        described in [The Evolving Role of the
+        Biostatistician](/future-of-biostatistics/).
     design:
       columns: '1'
 

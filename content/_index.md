@@ -24,8 +24,8 @@ sections:
         design, and clinical artificial intelligence to support biomedical,
         clinical, and translational research in Hawaiʻi.
 
-        [Explore Research](/research/) · [View Publications](/publications/) ·
-        [Teaching](/teaching/)
+        [Explore Research](/research/) · [Future of Biostatistics](/future-of-biostatistics/) ·
+        [View Publications](/publications/) · [Teaching](/teaching/)
       # Link to the official faculty profile.
       button:
         text: Institutional Profile
