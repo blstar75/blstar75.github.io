@@ -10,7 +10,22 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
-      text: ''
+      text: |-
+        **Clinical AI Evaluation · Biostatistics · Real-World Evidence**
+
+        I develop rigorous methods to determine whether clinical AI is
+        trustworthy, clinically meaningful, equitable, and ready for real-world
+        use.
+
+        Hyeong Jun Ahn is an Associate Professor in the Department of Quantitative
+        Health Sciences at the University of Hawaiʻi John A. Burns School of
+        Medicine and Director of the Biostatistics Core Facility. His work
+        integrates applied biostatistics, healthcare data analytics, research
+        design, and clinical artificial intelligence to support biomedical,
+        clinical, and translational research in Hawaiʻi.
+
+        [Explore Research](/research/) · [View Publications](/publications/) ·
+        [Teaching](/teaching/)
       # Link to the official faculty profile.
       button:
         text: Institutional Profile
@@ -33,6 +48,28 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+  - block: stats
+    id: impact
+    content:
+      title: 'At a Glance'
+      text: 'A publication record built through methodological leadership and sustained clinical collaboration.'
+      items:
+        - statistic: '103'
+          description: 'Peer-reviewed articles'
+          sub_metric: 'Published, accepted, or in press as of July 2026'
+          icon: hero/document-text
+        - statistic: '97'
+          description: 'Collaborative publications'
+          sub_metric: 'Across biomedical, clinical, and population health research'
+          icon: hero/user-group
+        - statistic: '6'
+          description: 'First- or corresponding-author papers'
+          sub_metric: 'Methodological, Clinical AI, and population-health scholarship'
+          icon: hero/beaker
+    design:
+      layout: cards
+      numbers_gradient: true
+      css_class: 'home-impact'
   - block: markdown
     id: research
     content:
@@ -63,18 +100,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: markdown
-    content:
-      title: 'Collaborative Scholarship'
-      subtitle: ''
-      text: |-
-        As of July 2026, I have contributed to **97 collaborative, co-authored
-        publications** across biomedical, clinical, and population health
-        research. Together with **6 first- or corresponding-author papers**, my
-        publication record includes **103 peer-reviewed articles published,
-        accepted, or in press**.
-    design:
-      columns: '1'
   - block: cta-card
     demo: true # Only display this section in the HugoBlox Kit demo site
     content:

@@ -8,6 +8,22 @@ design:
 
 sections:
   - block: markdown
+    id: research-overview
+    content:
+      title: 'Explore Research Areas'
+      subtitle: ''
+      text: |-
+        - [Clinical AI Evaluation](#clinical-ai-evaluation)
+        - [Quantitative Methods](#quantitative-methods)
+        - [Healthcare Data & Health Disparities](#health-data-disparities)
+        - [Collaborative Biostatistics](#collaborative-biostatistics)
+        - [Research Infrastructure & Capacity Building](#research-infrastructure)
+    design:
+      columns: '1'
+      css_class: 'research-topic-nav'
+
+  - block: markdown
+    id: clinical-ai-evaluation
     content:
       title: 'Clinical AI Evaluation'
       subtitle: ''
@@ -90,6 +106,7 @@ sections:
       css_class: 'research-wide'
 
   - block: markdown
+    id: quantitative-methods
     content:
       title: 'Quantitative Methods for Clinical and Population Health'
       subtitle: ''
@@ -126,6 +143,7 @@ sections:
       css_class: 'research-wide'
 
   - block: markdown
+    id: health-data-disparities
     content:
       title: 'Healthcare Data Analytics and Health Disparities'
       subtitle: ''
@@ -166,6 +184,7 @@ sections:
       css_class: 'research-wide'
 
   - block: markdown
+    id: collaborative-biostatistics
     content:
       title: 'Collaborative Biostatistics'
       subtitle: ''
@@ -186,6 +205,7 @@ sections:
       css_class: 'research-wide'
 
   - block: markdown
+    id: research-infrastructure
     content:
       title: 'Research Infrastructure and Capacity Building'
       subtitle: ''
