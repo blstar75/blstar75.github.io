@@ -108,8 +108,9 @@ sections:
       columns: '1'
 
   - block: markdown
+    id: mentorship-trainee-outcomes
     content:
-      title: 'Mentoring'
+      title: 'Mentorship & Trainee Outcomes'
       subtitle: ''
       text: |-
         I mentor graduate students, doctoral candidates, medical students,
@@ -117,6 +118,15 @@ sections:
         statistical analysis, scholarly communication, and responsible use of
         health data. Mentoring ranges from capstone and dissertation committees to
         longitudinal research projects and clinical fellowship theses.
+
+        {{< trainee-outcomes >}}
+
+        Recent trainee and collaborative projects have produced presentations in
+        trauma research, pediatric pharmacovigilance, cognitive impairment, and
+        infectious disease. These experiences guide learners through the complete
+        research process—from a focused clinical question and defensible study
+        design to reproducible analysis, interpretation, and dissemination.
     design:
       columns: '1'
+      css_class: 'home-section-wide'
 ---

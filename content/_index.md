@@ -72,6 +72,16 @@ sections:
       numbers_gradient: true
       css_class: 'home-impact'
   - block: markdown
+    id: updates
+    content:
+      title: 'News & Updates'
+      subtitle: 'Recent scholarship, presentations, and educational initiatives'
+      text: |-
+        {{< home-updates >}}
+    design:
+      columns: '1'
+      css_class: 'home-section-wide'
+  - block: markdown
     id: research
     content:
       title: 'Research and Educational Mission'
@@ -89,6 +99,23 @@ sections:
         strengthen the quantitative research capacity of Hawaiʻi and the Pacific.
     design:
       columns: '1'
+  - block: markdown
+    id: clinical-ai-program
+    content:
+      title: 'Clinical AI Evaluation Program'
+      subtitle: 'Connecting education, rigorous evaluation, and responsible real-world use'
+      text: |-
+        {{< clinical-ai-pathway >}}
+
+        This integrated program prepares learners to evaluate Clinical AI while
+        developing the methods and evidence needed for trustworthy adoption. It
+        connects foundational quantitative training with evaluation frameworks,
+        independent validation, and real-world clinical research.
+
+        [Explore the research program](/research/) · [See the educational pathway](/future-of-biostatistics/)
+    design:
+      columns: '1'
+      css_class: 'home-section-wide'
   - block: collection
     id: publications
     content:
