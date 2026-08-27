@@ -25,7 +25,8 @@ sections:
         clinical, and translational research in Hawaiʻi.
 
         [Explore Research](/research/) · [Future of Biostatistics](/future-of-biostatistics/) ·
-        [View Publications](/publications/) · [Teaching](/teaching/)
+        [View Publications](/publications/) · [Teaching](/teaching/) ·
+        <a href="/uploads/Hyeong_Jun_Ahn_CV.pdf" download>Download CV (PDF)</a>
       # Link to the official faculty profile.
       button:
         text: Institutional Profile
