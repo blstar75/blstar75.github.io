@@ -289,6 +289,9 @@ section.home-section-wide .prose { width: 100%; max-width: none; }
 .pathway-step { padding: 1.25rem; border: 1px solid rgb(203 213 225); border-radius: 1rem; background: linear-gradient(145deg, rgb(255 255 255), rgb(248 250 252)); }
 .pathway-step-final { border-color: var(--color-primary-300); background: linear-gradient(145deg, rgb(239 246 255), rgb(240 253 250)); }
 .pathway-arrow { display: flex; align-items: center; color: var(--color-primary-600); font-size: 1.6rem; font-weight: 800; }
+.pathway-competencies { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 0.65rem; margin: -0.35rem 0 1.75rem; padding: 0.9rem 1rem; border: 1px solid rgb(191 219 254); border-radius: 999px; background: rgb(239 246 255 / 0.78); }
+.pathway-competencies strong { margin-right: 0.25rem; font-size: 0.82rem; }
+.pathway-competencies span { padding: 0.3rem 0.65rem; border-radius: 999px; background: white; color: rgb(30 64 175); font-size: 0.76rem; font-weight: 750; }
 
 .trainee-outcome-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; margin: 1.5rem 0; }
 .trainee-outcome { padding: 1.2rem; border-left: 4px solid var(--color-primary-500); border-radius: 0 1rem 1rem 0; background: rgb(248 250 252); }
@@ -297,6 +300,8 @@ section.home-section-wide .prose { width: 100%; max-width: none; }
 
 .dark .update-card, .dark .pathway-step, .dark .trainee-outcome { border-color: rgb(71 85 105); background: rgb(30 41 59 / 0.82); }
 .dark .pathway-step-final { border-color: var(--color-primary-700); background: linear-gradient(145deg, rgb(30 58 138 / 0.35), rgb(15 118 110 / 0.2)); }
+.dark .pathway-competencies { border-color: rgb(30 64 175); background: rgb(30 58 138 / 0.22); }
+.dark .pathway-competencies span { background: rgb(30 41 59); color: rgb(191 219 254); }
 
 @media (max-width: 900px) {
   .clinical-ai-pathway { grid-template-columns: 1fr; }
@@ -306,4 +311,6 @@ section.home-section-wide .prose { width: 100%; max-width: none; }
 
 @media (max-width: 640px) {
   .update-grid { grid-template-columns: 1fr; }
+  .pathway-competencies { border-radius: 1rem; }
+  .pathway-competencies strong { width: 100%; text-align: center; }
 }

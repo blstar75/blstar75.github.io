@@ -53,6 +53,31 @@ sections:
         of AI evidence and to support responsible real-world adoption. It also
         extends the traditional biostatistics identity from **analysis producer** to
         **steward of evidence quality and Clinical AI validity**.
+
+        ### Human supervision as a workforce competency
+
+        AI agents may automate a growing range of clinical tasks, but task
+        automation does not eliminate the need for clinical judgment. In
+        high-stakes care, one consequential error can undermine an otherwise
+        effective chain of work. The future workforce will therefore need new
+        professional capabilities: clinicians and clinical researchers must be
+        able to **evaluate, supervise, challenge, and appropriately rely on AI**.
+        Safety, trust, error detection, and human oversight are not temporary
+        safeguards around new technology; they are becoming core clinical
+        workforce competencies.
+
+        This framing is consistent with an August 29, 2026 *New England Journal
+        of Medicine* Perspective by Dhruv Khullar, which argues that AI-enabled
+        task automation may increase the value of nonautomated human work and
+        create demand for new professional capabilities. The Clinical AI
+        Evaluation Program responds by preparing learners not merely to use AI,
+        but to assess when its outputs are trustworthy, identify consequential
+        errors, and determine when reliance is justified.
+
+        **Source citation:** Weill Cornell Medicine. *How Will AI Impact the
+        Future of the Clinical Workforce?* WCM Newsroom. Published August 29,
+        2026. [Read the official summary of Khullar's NEJM
+        Perspective](https://news.weill.cornell.edu/news/2026/08/how-will-ai-impact-the-future-of-the-clinical-workforce).
     design:
       columns: '1'
       css_class: 'research-wide'

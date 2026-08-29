@@ -75,6 +75,17 @@ sections:
         from causal inference, and collaborate effectively with quantitative and
         AI specialists.
 
+        As AI systems assume more clinical tasks, health professionals will need
+        capabilities that extend beyond general AI literacy. The program therefore
+        emphasizes appropriate reliance, detection of consequential AI errors,
+        human supervision, and reciprocal correction between clinicians and AI
+        systems. This workforce framing is informed by an August 29, 2026
+        *New England Journal of Medicine* Perspective by Dhruv Khullar; see the
+        [official Weill Cornell Medicine
+        summary](https://news.weill.cornell.edu/news/2026/08/how-will-ai-impact-the-future-of-the-clinical-workforce)
+        and the fuller discussion in [The Evolving Role of the
+        Biostatistician](/future-of-biostatistics/#educational-response).
+
         Current teaching activities include workshops on multiple testing,
         missing-data mechanisms, multiple imputation, sensitivity analysis, and
         reproducible implementation in R, together with applied machine-learning

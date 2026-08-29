@@ -100,7 +100,12 @@ sections:
         interdisciplinary workforce that can rigorously assess, validate, and
         responsibly adopt AI. I integrate this evaluation framework into research,
         collaboration, and education for clinicians, investigators, and quantitative
-        scientists.
+        scientists. The program develops the evidence and evaluation methods needed
+        for safe human oversight, consequential-error detection, reciprocal
+        human–AI correction, and appropriate reliance on Clinical AI—capabilities
+        increasingly central to the future clinical workforce. This workforce
+        rationale is discussed further in [The Evolving Role of the
+        Biostatistician](/future-of-biostatistics/#educational-response).
     design:
       columns: '1'
       css_class: 'research-wide'
