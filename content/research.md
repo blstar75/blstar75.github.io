@@ -58,10 +58,10 @@ sections:
 
         **Clinical AI Evaluation Frameworks**
 
-        - Ahn HJ, Kim MH, Lim E, Siriwardhana C. (2026). *Auditability Before
-          Statistical Assessment: A Dependency-Based Framework for Local Evaluation
-          of Clinical Prediction Models.* Perspective manuscript submitted to the
-          *Journal of the American Medical Informatics Association (JAMIA)*.
+        - Ahn HJ, Kim MH, Lim E, Siriwardhana C. (2026). *Beyond Checklists: A
+          Dependency-Based Framework for Clinical AI Evaluation.* Perspective
+          manuscript submitted to the *Journal of the American Medical Informatics
+          Association (JAMIA)*; awaiting reviewer selection.
         - **Clinical AI Paper 2 / Audit A2 — external content review study in
           preparation.** A 22-item dependency-based audit instrument and structured
           review protocol have been developed. The study received a Not Human
@@ -130,6 +130,9 @@ sections:
 
         **Selected methodological publications**
 
+        - Ahn HJ. (2026). *Population Structure, Hardy–Weinberg Disequilibrium,
+          and Bias in Haplotype-Based Inference.* Manuscript submitted to
+          *Genetic Epidemiology*; decision pending.
         - Ahn HJ. (2026). [*A Stratified Proportional Allocation Approach for
           Multiracial Population
           Classification.*](/publications/conference-paper/) *Population Review*.
