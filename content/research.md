@@ -171,6 +171,10 @@ sections:
 
         **Selected publications**
 
+        - Ahn HJ et al. (2026). *Impact of Race Classification Strategies on
+          Disparity Estimates in Smoking During Pregnancy: A Population-Based
+          Analysis of Hawaiʻi PRAMS.* Manuscript submitted to *PLOS ONE* in May
+          2026; decision pending.
         - Ahn HJ. (2023). [*Potential Errors in Health Disparities Research
           Resulting from Lack of Unique Patient Identifiers: Analysis of
           Diabetes-related Preventable
