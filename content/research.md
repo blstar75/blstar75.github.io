@@ -177,8 +177,7 @@ sections:
           (2026). [*Maternal Health Trends and Disparities in Hawaiʻi: Visualizing
           Pregnancy Risk Assessment Monitoring System Data Through an Interactive
           Shiny Web Application.*](/publications/journal-article/) *Hawaiʻi Journal
-          of Health & Social Welfare*. Conditionally accepted, pending final CDC
-          PRAMS data-use approval.
+          of Health & Social Welfare*. Accepted for publication; in production.
         - Chern I, Choi SY, Ahn HJ, Mau M, Yamasato K. (2025). [*Racial/Ethnic
           Differences in Gestational Diabetes and Its Association with Maternal and
           Neonatal Outcomes among Women in

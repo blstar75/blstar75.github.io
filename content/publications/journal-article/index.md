@@ -18,4 +18,6 @@ tags: [Maternal Health, Health Disparities, Data Visualization, Shiny]
 featured: true
 ---
 
-Corresponding author. Conditionally accepted, pending final CDC PRAMS data-use approval.
+Corresponding author. Accepted for publication in the *Hawaiʻi Journal of
+Health & Social Welfare*. The manuscript has completed its third copy edit and
+is proceeding to production and author proof review.
