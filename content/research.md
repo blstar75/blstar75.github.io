@@ -23,6 +23,31 @@ sections:
       css_class: 'research-topic-nav'
 
   - block: markdown
+    id: manuscripts-under-review
+    content:
+      title: 'Manuscripts Currently Under Review (4)'
+      subtitle: ''
+      text: |-
+        - *Beyond Checklists: A Dependency-Based Framework for Clinical AI
+          Evaluation.* **JAMIA** — awaiting reviewer selection.
+        - *Beyond AI Literacy: Developing a Competency-Based Curriculum for
+          Evidence-Based Evaluation of Clinical Artificial Intelligence.*
+          **Frontiers in Medicine** — decision pending.
+        - *Population Structure, Hardy–Weinberg Disequilibrium, and Bias in
+          Haplotype-Based Inference.* **Genetic Epidemiology** — decision pending.
+        - *Impact of Race Classification Strategies on Disparity Estimates in
+          Smoking During Pregnancy: A Population-Based Analysis of Hawaiʻi PRAMS.*
+          **PLOS ONE** — submitted May 2026; decision pending.
+
+        One additional manuscript has been accepted and is in production:
+        *Maternal Health Trends and Disparities in Hawaiʻi: Visualizing Pregnancy
+        Risk Assessment Monitoring System Data Through an Interactive Shiny Web
+        Application* (**Hawaiʻi Journal of Health & Social Welfare**).
+    design:
+      columns: '1'
+      css_class: 'research-wide'
+
+  - block: markdown
     id: clinical-ai-evaluation
     content:
       title: 'Clinical AI Evaluation'
