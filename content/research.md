@@ -133,10 +133,10 @@ sections:
         - Ahn HJ. (2026). *Population Structure, Hardy–Weinberg Disequilibrium,
           and Bias in Haplotype-Based Inference.* Manuscript submitted to
           *Genetic Epidemiology*; decision pending.
-        - Ahn HJ. (2026). [*A Stratified Proportional Allocation Approach for
-          Multiracial Population
-          Classification.*](/publications/conference-paper/) *Population Review*.
-          Accepted; in press.
+        - Ahn HJ. (2026). [*Survey-Weighted Stratified Proportional Allocation for
+          Multiracial Population Estimation: An Application to Hawaiʻi
+          PRAMS.*](/publications/conference-paper/) *Population Review*, 65(2),
+          1–13. Published October 31, 2026.
         - Matsunaga M, Ishikawa KM, Siriwardhana C, Ahn HJ, Chen JJ. (2023).
           [*Stepwise Proportional Weighting Algorithm for Single-Race Population
           Estimation Using Hawaiʻi Census
