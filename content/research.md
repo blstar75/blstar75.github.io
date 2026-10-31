@@ -58,10 +58,6 @@ sections:
 
         **Clinical AI Evaluation Frameworks**
 
-        - Ahn HJ, Kim MH, Lim E, Siriwardhana C. (2026). *Beyond Checklists: A
-          Dependency-Based Framework for Clinical AI Evaluation.* Perspective
-          manuscript submitted to the *Journal of the American Medical Informatics
-          Association (JAMIA)*; awaiting reviewer selection.
         - **Clinical AI Paper 2 / Audit A2 — external content review study in
           preparation.** A 22-item dependency-based audit instrument and structured
           review protocol have been developed. The study received a Not Human
@@ -75,8 +71,8 @@ sections:
 
         - Ahn HJ. (2026). *Beyond AI Literacy: Developing a Competency-Based
           Curriculum for Evidence-Based Evaluation of Clinical Artificial
-          Intelligence.* Manuscript submitted to *Frontiers in Medicine*,
-          Curriculum, Instruction, and Pedagogy.
+          Intelligence.* Manuscript in interactive peer review at *Frontiers in
+          Medicine*, Curriculum, Instruction, and Pedagogy.
         - **QHS 600 education study — manuscript in development.** This educational
           research evaluates the modernization of foundational biostatistics for the
           Clinical AI era, including statistical reasoning, evidence appraisal, and
@@ -93,8 +89,8 @@ sections:
           Review.* Submission draft prepared for *BMC Medical Research Methodology*.
         - Ahn HJ et al. (2026). *Beyond Point-and-Click: Interface-Mediated Analytic
           Constraints in Federated Electronic Health Record Research—A Monte Carlo
-          Simulation Study.* Manuscript being prepared for the *Journal of Clinical
-          Epidemiology*.
+          Simulation Study.* Manuscript submitted to the *Journal of Clinical
+          Epidemiology* (JCEPI-D-26-01631); under editorial consideration.
 
         Consistent with NIH priorities, these projects strengthen an
         interdisciplinary workforce that can rigorously assess, validate, and
@@ -130,9 +126,9 @@ sections:
 
         **Selected methodological publications**
 
-        - Ahn HJ. (2026). *Population Structure, Hardy–Weinberg Disequilibrium,
-          and Bias in Haplotype-Based Inference.* Manuscript submitted to
-          *Genetic Epidemiology*; decision pending.
+        - Ahn HJ. (2026). *Hidden Linkage Disequilibrium Heterogeneity Distorts
+          Pooled Haplotype Inference.* Manuscript submitted to *Genetic
+          Epidemiology*; decision pending.
         - Ahn HJ. (2026). [*Survey-Weighted Stratified Proportional Allocation for
           Multiracial Population Estimation: An Application to Hawaiʻi
           PRAMS.*](/publications/conference-paper/) *Population Review*, 65(2),
@@ -174,7 +170,7 @@ sections:
         - Ahn HJ et al. (2026). *Impact of Race Classification Strategies on
           Disparity Estimates in Smoking During Pregnancy: A Population-Based
           Analysis of Hawaiʻi PRAMS.* Manuscript submitted to *PLOS ONE* in May
-          2026; decision pending.
+          2026; in external peer review as of September 2026.
         - Ahn HJ. (2023). [*Potential Errors in Health Disparities Research
           Resulting from Lack of Unique Patient Identifiers: Analysis of
           Diabetes-related Preventable
@@ -207,10 +203,17 @@ sections:
         statistical analysis, data quality, grant development, manuscript
         preparation, and interpretation of findings.
 
-        As of July 2026, this collaborative work has contributed to **97 co-authored
-        publications**. Together with **6 first- or corresponding-author papers**,
-        the publication record represented in my current CV includes **103 articles
-        published, accepted, or in press**.
+        As of October 2026, this collaborative work has contributed to **98
+        co-authored publications**. Together with **6 first- or
+        corresponding-author papers**, the publication record represented in my
+        current CV includes **104 articles published, accepted, or in press**.
+
+        **Recent collaborative publication**
+
+        - Abdul-Ghani S, Brenner N, Hernandez BY, Wong L, Ahn HJ, Green BL. (2026).
+          [*HLA-C\*04 and hepatocellular carcinoma post-surgical survival in
+          Hawaii.*](/publications/hla-c04-hcc-survival/) *Frontiers in Genetics*,
+          17:1874308. doi: 10.3389/fgene.2026.1874308.
     design:
       columns: '1'
       css_class: 'research-wide'
