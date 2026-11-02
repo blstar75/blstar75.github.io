@@ -180,7 +180,8 @@ sections:
           (2026). [*Maternal Health Trends and Disparities in Hawaiʻi: Visualizing
           Pregnancy Risk Assessment Monitoring System Data Through an Interactive
           Shiny Web Application.*](/publications/journal-article/) *Hawaiʻi Journal
-          of Health & Social Welfare*. Accepted for publication; in production.
+          of Health & Social Welfare*, 85(11), 315–322.
+          [doi:10.62547/DBYW5314](https://doi.org/10.62547/DBYW5314).
         - Chern I, Choi SY, Ahn HJ, Mau M, Yamasato K. (2025). [*Racial/Ethnic
           Differences in Gestational Diabetes and Its Association with Maternal and
           Neonatal Outcomes among Women in
@@ -203,7 +204,7 @@ sections:
         statistical analysis, data quality, grant development, manuscript
         preparation, and interpretation of findings.
 
-        As of October 2026, this collaborative work has contributed to **98
+        As of November 2026, this collaborative work has contributed to **98
         co-authored publications**. Together with **6 first- or
         corresponding-author papers**, the publication record represented in my
         current CV includes **104 articles published, accepted, or in press**.

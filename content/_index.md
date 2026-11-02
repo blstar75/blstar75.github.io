@@ -57,7 +57,7 @@ sections:
       items:
         - statistic: '104'
           description: 'Peer-reviewed articles'
-          sub_metric: 'Published, accepted, or in press as of October 2026'
+          sub_metric: 'Published, accepted, or in press as of November 2026'
           icon: hero/document-text
         - statistic: '98'
           description: 'Collaborative publications'
