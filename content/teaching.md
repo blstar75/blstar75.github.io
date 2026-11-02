@@ -132,6 +132,9 @@ sections:
 
         {{< trainee-outcomes >}}
 
+        In 2026, **Beverly Rice completed her PhD in Molecular Biosciences and
+        Bioengineering** following my service on her dissertation committee.
+
         Recent trainee and collaborative projects have produced presentations in
         trauma research, pediatric pharmacovigilance, cognitive impairment, and
         infectious disease. These experiences guide learners through the complete
