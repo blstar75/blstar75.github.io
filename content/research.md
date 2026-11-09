@@ -69,10 +69,10 @@ sections:
 
         **Clinical AI Education**
 
-        - Ahn HJ. (2026). *Beyond AI Literacy: Developing a Competency-Based
-          Curriculum for Evidence-Based Evaluation of Clinical Artificial
-          Intelligence.* Manuscript in interactive peer review at *Frontiers in
-          Medicine*, Curriculum, Instruction, and Pedagogy.
+        - Ahn HJ. (2026). [*Developing a Curriculum for Local Evaluation of
+          Clinical Artificial Intelligence.*](/publications/clinical-ai-curriculum/)
+          Accepted for publication in *Frontiers in Medicine*, Healthcare
+          Professions Education, on November 9, 2026; in production. Manuscript 1977495.
         - **QHS 600 education study — manuscript in development.** This educational
           research evaluates the modernization of foundational biostatistics for the
           Clinical AI era, including statistical reasoning, evidence appraisal, and
@@ -205,9 +205,9 @@ sections:
         preparation, and interpretation of findings.
 
         As of November 2026, this collaborative work has contributed to **98
-        co-authored publications**. Together with **6 first- or
+        co-authored publications**. Together with **7 first- or
         corresponding-author papers**, the publication record represented in my
-        current CV includes **104 articles published, accepted, or in press**.
+        current CV includes **105 articles published, accepted, or in press**.
 
         **Recent collaborative publication**
 

@@ -55,7 +55,7 @@ sections:
       title: 'At a Glance'
       text: 'A publication record built through methodological leadership and sustained clinical collaboration.'
       items:
-        - statistic: '104'
+        - statistic: '105'
           description: 'Peer-reviewed articles'
           sub_metric: 'Published, accepted, or in press as of November 2026'
           icon: hero/document-text
@@ -63,7 +63,7 @@ sections:
           description: 'Collaborative publications'
           sub_metric: 'Across biomedical, clinical, and population health research'
           icon: hero/user-group
-        - statistic: '6'
+        - statistic: '7'
           description: 'First- or corresponding-author papers'
           sub_metric: 'Methodological, Clinical AI, and population-health scholarship'
           icon: hero/beaker
