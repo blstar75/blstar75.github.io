@@ -55,11 +55,11 @@ sections:
       title: 'At a Glance'
       text: 'A publication record built through methodological leadership and sustained clinical collaboration.'
       items:
-        - statistic: '105'
+        - statistic: '106'
           description: 'Peer-reviewed articles'
           sub_metric: 'Published, accepted, or in press as of November 2026'
           icon: hero/document-text
-        - statistic: '98'
+        - statistic: '99'
           description: 'Collaborative publications'
           sub_metric: 'Across biomedical, clinical, and population health research'
           icon: hero/user-group

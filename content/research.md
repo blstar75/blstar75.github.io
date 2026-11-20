@@ -204,13 +204,18 @@ sections:
         statistical analysis, data quality, grant development, manuscript
         preparation, and interpretation of findings.
 
-        As of November 2026, this collaborative work has contributed to **98
+        As of November 2026, this collaborative work has contributed to **99
         co-authored publications**. Together with **7 first- or
         corresponding-author papers**, the publication record represented in my
-        current CV includes **105 articles published, accepted, or in press**.
+        current CV includes **106 articles published, accepted, or in press**.
 
         **Recent collaborative publication**
 
+        - Kanja K, Brenner N, Tsuneoka M, Ahn HJ, Yoon HC, Gimber LH. (2026).
+          [*Evaluating Clinical Features to Guide First-Line Imaging Selection in
+          Suspected Cases of Acute Appendicitis.*](/publications/appendicitis-imaging/)
+          *The Permanente Journal*. Published online November 16, 2026.
+          doi: 10.7812/TPP/26.123.
         - Abdul-Ghani S, Brenner N, Hernandez BY, Wong L, Ahn HJ, Green BL. (2026).
           [*HLA-C\*04 and hepatocellular carcinoma post-surgical survival in
           Hawaii.*](/publications/hla-c04-hcc-survival/) *Frontiers in Genetics*,
